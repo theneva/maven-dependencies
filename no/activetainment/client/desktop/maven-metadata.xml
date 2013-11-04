@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>no.activetainment.client</groupId>
+  <artifactId>desktop</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20131104130129</lastUpdated>
+  </versioning>
+</metadata>
